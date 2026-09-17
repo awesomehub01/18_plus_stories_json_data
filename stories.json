@@ -1,0 +1,300 @@
+{
+  "urdunovels": [
+    {
+      "id": "1",
+      "title": "Badalty Rishty",
+      "author": "Shakeel Ahmed Chohan",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/badaltay-rishtay.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/badaltay-rishtay.json"
+    },
+    {
+      "id": "2",
+      "title": "Dard e Judai",
+      "author": "Shakeel Ahmed Chohan",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/darde-judai.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/darde-judai.json"
+    },
+    {
+      "id": "3",
+      "title": "Dil Adal Badal",
+      "author": "Shakeel Ahmed Chohan",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/dil-adal-badal.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/dil-adal-badal.json"
+    },
+    {
+      "id": "4",
+      "title": "Fasana e Mubtala",
+      "author": "Shakeel Ahmed Chohan",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/fasana-e-mubtala.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/fasana-e-mubtala.json"
+    },
+    {
+      "id": "5",
+      "title": "Maan Key Muhaly Meen",
+      "author": "Shakeel Ahmed Chohan",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/mann-kay-muhallay-mein.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/mann-kay-muhallay-mein.json"
+    },
+    {
+      "id": "6",
+      "title": "Phansi",
+      "author": "Shakeel Ahmed Chohan",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/phansi.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/phansi.json"
+    },
+    {
+      "id": "7",
+      "title": "Qalander Zaat - Part 3",
+      "author": "Shakeel Ahmed Chohan",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/qalander-zaat-part-3.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/qalander-zaat-part-3.json"
+    },
+    {
+      "id": "8",
+      "title": "Qalander Zaat - Part 2",
+      "author": "Shakeel Ahmed Chohan",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/qalander-zaat-part-2.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/qalander-zaat-part-2.json"
+    },
+    {
+      "id": "9",
+      "title": "Qalander Zaat - Part 1",
+      "author": "Shakeel Ahmed Chohan",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/qalander-zaat-part-1.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/qalander-zaat-part-1.json"
+    },
+    {
+      "id": "10",
+      "title": "Sehar Hony Taak",
+      "author": "Shakeel Ahmed Chohan",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/sehar-honay-tak.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/sehar-honay-tak.json"
+    },
+    {
+      "id": "11",
+      "title": "Shamsheer Be Niyam -part 1",
+      "author": "Shakeel Ahmed Chohan",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/shamsheer-be-niyam-part1.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/shamsheer-be-niyam-part1.json"
+    },
+    {
+      "id": "12",
+      "title": "Shehar e Dil",
+      "author": "Shakeel Ahmed Chohan",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/shehr-e-dil.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/shehr-e-dil.json"
+    },
+    {
+      "id": "13",
+      "title": "Watan Ya Kafan",
+      "author": "Shakeel Ahmed Chohan",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/watan-ya-kafan.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/watan-ya-kafan.json"
+    },
+    {
+      "id": "14",
+      "title": "Zeerak e Zaan",
+      "author": "Shakeel Ahmed Chohan",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/zeerak-zann.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/zeerak-zann.json"
+    },
+{
+      "id": "15",
+      "title": "Ghuroob e Muhabat",
+      "author": "Samaira Ahmed",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/ghuroob-e-mohabbat.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/ghuroob-e-mohabbat.json"
+    },
+{
+      "id": "16",
+      "title": "Chalo Jany Do",
+      "author": "Samaira Ahmed",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/chalo-jaane-do.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/chalo-jaane-do.json"
+    },
+{
+      "id": "17",
+      "title": "Main Guman Nahi Yaqeen Hon",
+      "author": "Nabila Abrar Raja",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/mein-guman-nahi-yaqeen-hon.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/mein-guman-nahi-yaqeen-hon.json"
+    },
+    {
+      "id": "18",
+      "title": "Soda",
+      "author": "Sumaira Ahmed",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/soda.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/soda.json"
+    },
+    {
+      "id": "19",
+      "title": "Baqa e Zeest",
+      "author": "Ambreen Gull",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/baqa-e-zeest.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/baqa-e-zeest.json"
+    },
+    {
+      "id": "20",
+      "title": "Ay Junoon Dasht Hai Kay Manzil",
+      "author": "Memona Khurshid Ali",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/ay-junoon-dasht-hai-k-manzil.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/ay-junoon-dasht-hai-k-manzil.json"
+    },
+{
+      "id": "21",
+      "title": "Zanjeer",
+      "author": "Farooq Anjum",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/zanjeer.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/zanjeer.json"
+    },
+{
+      "id": "22",
+      "title": "Tahi Daman",
+      "author": "Dr. Atiya Shamshad",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/tahi-daman.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/tahi-daman.json"
+    },
+{
+      "id": "23",
+      "title": "Sila",
+      "author": "Aiman Ali",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/sila.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/sila.json"
+    },
+{
+      "id": "24",
+      "title": "Hayyat Mumkin",
+      "author": "",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/hayat-mumkin-hai.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/hayat-mumkin-hai.json"
+    },
+{
+      "id": "25",
+      "title": "Dhoop Kay Phighalny Tak",
+      "author": "Amjad Javid",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/dhoop-k-pighalnay-tak.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/dhoop-k-pighalnay-tak.json"
+    },
+{
+      "id": "26",
+      "title": "Zindagi Tum Ho",
+      "author": "Madiha Tariq",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/zindagi-tum-ho.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/zindagi-tum-ho.json"
+    },
+{
+      "id": "27",
+      "title": "Betian Phool Hen",
+      "author": "Shereen Haidar",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/betian-phool-hain.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/betian-phool-hain.json"
+    },
+{
+      "id": "28",
+      "title": "Main Udas Rasta Hon Sham Ka",
+      "author": "Madiha Tabasum",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/main-udas-rasta-hon-shaam-ka.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/main-udas-rasta-hon-shaam-ka.json"
+    },
+{
+      "id": "29",
+      "title": "Tezaab",
+      "author": "Muhammad Farooq Anjum",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/tezaab.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/tezaab.json"
+    },
+{
+      "id": "30",
+      "title": "Bilal Sahib",
+      "author": "Shakeel Ahmed Chohan",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/bilal-shaib.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/bilal-shaib.json"
+    },
+{
+      "id": "31",
+      "title": "Bheegi Palkon Par",
+      "author": "Iqra Sagheer Ahmed",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/bheegi-palkon-par.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/bheegi-palkon-par.json"
+    },
+{
+      "id": "32",
+      "title": "Band e Quba Khulny Lagi Jana",
+      "author": "Syeda Abid",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/band-e-quba-khulnay-lagi-jana.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/band-e-quba-khulnay-lagi-jana.json"
+    },
+{
+      "id": "33",
+      "title": "Tum Kon Piya",
+      "author": "Maha Malik",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/tum-kon-piya.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/tum-kon-piya.json"
+    },
+{
+      "id": "34",
+      "title": "Teri Yaad Shakh e Gulab",
+      "author": "Madiha Tabasum",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/teri-yad-shakh-e-gulab.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/teri-yad-shakh-e-gulab.json"
+    },
+{
+      "id": "35",
+      "title": "Mery Khawab Reza Reza",
+      "author": "Maha Malik",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/mere-khawab-reza-reza.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/mere-khawab-reza-reza.json"
+    },
+{
+      "id": "36",
+      "title": "Uran",
+      "author": "Professor M Yasin",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/uran.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/uran.json"
+    },
+{
+      "id": "37",
+      "title": "Aas Paas Hai Khuda",
+      "author": "Warda Sayed",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/aas-paas-hai-khuda.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/aas-paas-hai-khuda.json"
+    }
+  ]
+}
